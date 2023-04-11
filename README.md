@@ -34,5 +34,6 @@ I'm Fulton, a self-taught Embedded Software Engineer studying Industrial Enginee
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
+<a href="https://github.com/FultonGreiner"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Fulton%20Greiner-333333?style=flat&logo=github"></a>
 <a href="https://www.linkedin.com/in/FultonGreiner/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fulton%20Greiner-333333?style=flat&logo=linkedin"></a>
 </p>
