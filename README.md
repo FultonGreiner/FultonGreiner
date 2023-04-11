@@ -1,25 +1,34 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/Code-ARM%20Assembly-informational?style=flat&logo=arm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-![](https://img.shields.io/badge/Electronics-Digital%20Multimeter-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Electronics-Logic%20Analyzer-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Electronics-PCB%20Design-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Electronics-Oscilloscope-informational?style=flat&&color=2bbc8a)
-![](https://img.shields.io/badge/Electronics-Soldering-informational?style=flat&color=2bbc8a)
+- 💻 &nbsp;
+  ![](https://img.shields.io/badge/-ARM%20Assembly-333333?style=flat&logo=arm&logoColor=white)
+  ![](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)
+  ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=white)
+  ![](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=white)
+  ![](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle&logoColor=white)
+  ![](https://img.shields.io/badge/-MATLAB-333333?style=flat)
+  ![](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=white)
+- 🔧 &nbsp;
+  ![](https://img.shields.io/badge/-Digital%20Multimeter-333333?style=flat)
+  ![](https://img.shields.io/badge/-Logic%20Analyzer-333333?style=flat)
+  ![](https://img.shields.io/badge/-PCB%20Design-333333?style=flat)
+  ![](https://img.shields.io/badge/-Oscilloscope-333333?style=flat)
+  ![](https://img.shields.io/badge/-Soldering-333333?style=flat)
+- 🖥 &nbsp;
+  ![](https://img.shields.io/badge/-EAGLE-333333?style=flat&logo=eagle&logoColor=white)
+  ![](https://img.shields.io/badge/-KiCad-333333?style=flat&logo=kicad&logoColor=white)
+  ![](https://img.shields.io/badge/-LabVIEW-333333?style=flat)
+  ![](https://img.shields.io/badge/-Simulink-333333?style=flat)
+  ![](https://img.shields.io/badge/-SystemVerilog-333333?style=flat)
+ - ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=white)
 
-![](https://img.shields.io/badge/Software-EAGLE-informational?style=flat&logo=eagle&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Software-KiCad-informational?style=flat&logo=kicad&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Software-LabVIEW-informational?style=flat&logo=labview&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Software-Simulink-informational?style=flat&color=2bbc8a)
-![](https://img.shields.io/badge/Software-SystemVerilog-informational?style=flat&color=2bbc8a)
 
 
 
