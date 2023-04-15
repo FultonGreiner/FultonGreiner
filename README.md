@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Fulton 👋</h1>
+<h1> Hi there, I'm Fulton </h1>
 
 I am a self-taught Embedded Software Engineer and Industrial Engineering student at Purdue University, with a passion for coding and designing electronics.
 When I'm not programming or studying, you can find me at the gym or tinkering with electronics.
