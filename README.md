@@ -1,6 +1,7 @@
 <h1> Hi there, I'm Fulton </h1>
 
-I am a self-taught Embedded Software Engineer and Industrial Engineering student at Purdue University, with a passion for coding and designing electronics.
+I’m a self-taught Firmware Engineer with a passion for building things from the ground up. I’ll soon rejoin Tesla Dojo, where I specialize in developing firmware for data plane operations, FPGAs, and network systems.
+
 When I'm not programming or studying, you can find me at the gym or tinkering with electronics.
 
 
